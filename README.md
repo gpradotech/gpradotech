@@ -2,7 +2,7 @@
 
 - 🎓 I’m a UX and Graphic Designer <!-- - 🔭 I’m currently working at [Link visible name](https://address.com) -->
 - 📚 I’m currently learning Front-End Development
-- ⚡ Fun fact: I'm a world-renowned rapper ;p
+- ⚡ Fun fact: I'm a world unknown rapper ;p
 
 
 ## Studying the technologies
