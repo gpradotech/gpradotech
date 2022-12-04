@@ -18,7 +18,12 @@
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Nodejs" width="24px" height="24px"/></a> 
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="NPM" width="24px" height="24px"/></a> 
 
-
+<div>
+<a href="https://github.com/gprado-dev">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gprado-dev&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gprado-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+  
 ## Studying the Tools
 
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="24px" height="24px"/></a> 
