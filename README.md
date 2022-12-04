@@ -4,9 +4,16 @@
 - 📚 I’m currently learning Front-End Development
 - ⚡ Fun fact: I'm a world-renowned rapper
 
-# Contact
+## Contact
 
-https://www.linkedin.com/in/gustavoprado1/ https://instagram.com/pradorap
+<p align="left" style="background:yellow">
+<a href="https://linkedin.com/in/gustavoprado1" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://instagram.com/pradorap" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+</p>
 
 <!--
 **gprado-dev/gprado-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
