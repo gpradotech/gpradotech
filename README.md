@@ -27,7 +27,8 @@
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" alt="Woo Commerce" width="24px" height="24px"/></a> 
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="24px" height="24px"/></a> 
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="Trello" width="24px" height="24px"/></a> 
-
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" alt="Storybook" width="24px" height="24px"/></a>
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-plain.svg" alt="Material UI" width="24px" height="24px"/></a>
 
 ## Contact
 
