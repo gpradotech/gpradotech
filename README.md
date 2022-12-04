@@ -4,16 +4,6 @@
 - 📚 I’m currently learning Front-End Development
 - ⚡ Fun fact: I'm a world-renowned rapper ;p
 
-## Contact
-
-<p align="left" style="background:yellow">
-<a href="https://linkedin.com/in/gprado-dev" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-gprado.dev-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://instagram.com/pradorap" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-pradorap-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-</p>
 
 ## Technologies
 
@@ -37,7 +27,19 @@
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" alt="Woo Commerce" width="24px" height="24px"/></a>
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="24px" height="24px"/></a>
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="Trello" width="24px" height="24px"/></a>
-<!--
+
+
+## Contact
+
+<p align="left" style="background:yellow">
+<a href="https://linkedin.com/in/gprado-dev" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-gprado.dev-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://instagram.com/pradorap" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-pradorap-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+</p>
+  <!--
 **gprado-dev/gprado-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
