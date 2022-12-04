@@ -17,12 +17,6 @@
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="24px" height="24px"/></a> 
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Nodejs" width="24px" height="24px"/></a> 
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="NPM" width="24px" height="24px"/></a> 
-
-<div>
-<a href="https://github.com/gprado-dev">
-<img height="80em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gprado-dev&layout=compact&langs_count=7&theme=dracula"/>
-<img height="80em" src="https://github-readme-stats.vercel.app/api?username=gprado-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
   
 ## Studying the Tools
 
@@ -45,6 +39,15 @@
  <img align="center" src="https://img.shields.io/badge/-pradorap-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 </p>
+  
+## Stats
+
+<div>
+<a href="https://github.com/gprado-dev">
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gprado-dev&layout=compact&langs_count=7&theme=dracula"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=gprado-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+ 
   <!--
 **gprado-dev/gprado-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
