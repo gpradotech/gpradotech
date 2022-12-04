@@ -8,7 +8,7 @@
 
 <p align="left" style="background:yellow">
 <a href="https://linkedin.com/in/gprado-dev" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-gprado-dev-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-gprado.dev-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://instagram.com/pradorap" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-pradorap-05122A?style=flat&logo=instagram" alt="instagram"/>
