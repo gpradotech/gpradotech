@@ -1,10 +1,13 @@
 # 👋 Hello! Welcome to my Github profile.
-## My name is Prado!
 
-- 🔭 I’m a UX and Graphic Designer
-- 🌱 I’m currently learning Front-End Development
-- 📫 How to reach me: contato.gprado@gmail.com
+- 🎓 I’m a UX and Graphic Designer
+- 📚 I’m currently learning Front-End Development
 - ⚡ Fun fact: I'm a world-renowned rapper
+
+# Contact
+
+https://www.linkedin.com/in/gustavoprado1/ https://instagram.com/pradorap
+
 <!--
 **gprado-dev/gprado-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
