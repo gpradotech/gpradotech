@@ -1,7 +1,6 @@
 # 👋 Hello! Welcome to my Github profile.
 
-- 🎓 I’m a UX and Graphic Designer
-<!-- - 🔭 I’m currently working at [Link visible name](https://address.com) -->
+- 🎓 I’m a UX and Graphic Designer <!-- - 🔭 I’m currently working at [Link visible name](https://address.com) -->
 - 📚 I’m currently learning Front-End Development
 - ⚡ Fun fact: I'm a world-renowned rapper
 
