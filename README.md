@@ -5,7 +5,7 @@
 - ⚡ Fun fact: I'm a world-renowned rapper ;p
 
 
-## Technologies
+## Studying the technologies
 
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="24px" height="24px"/></a> 
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="24px" height="24px"/></a> 
@@ -19,7 +19,7 @@
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="NPM" width="24px" height="24px"/></a> 
 
 
-## Tools
+## Studying the Tools
 
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="24px" height="24px"/></a> 
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="24px" height="24px"/></a> 
