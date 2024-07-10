@@ -1,7 +1,7 @@
 # 👋 Hello! Welcome to my Github profile.
 
 - 🎓 I’m a UX Designer and Graphic Designer <!-- - 🔭 I’m currently working at [Link visible name](https://address.com) -->
-- 📚 I’m currently learning Front-End Development
+- 📚 I’m currently learning Full Stack Development
 - ⚡ Fun fact: I'm a world unknown rapper ;p
 
 
@@ -31,11 +31,11 @@
 ## Contact
 
 <p align="left" style="background:yellow">
-<a href="https://linkedin.com/in/gprado-dev" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-gprado.dev-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+<a href="https://linkedin.com/in/gpradotech" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-gpradotech-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://instagram.com/gprado.dev" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-gprado.dev-05122A?style=flat&logo=instagram" alt="instagram"/>
+<a href="https://instagram.com/gpradotech" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-gpradotech-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 </p>
 
