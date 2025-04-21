@@ -28,17 +28,6 @@
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" alt="Storybook" width="24px" height="24px"/></a>
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-plain.svg" alt="Material UI" width="24px" height="24px"/></a>
 
-## Contact
-
-<p align="left" style="background:yellow">
-<a href="https://linkedin.com/in/gpradotech" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-gpradotech-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://instagram.com/gpradotech" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-gpradotech-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-</p>
-
 <!--
 <div>
 <a href="https://github.com/gprado-dev">
