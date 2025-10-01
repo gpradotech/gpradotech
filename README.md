@@ -1,6 +1,6 @@
 # 👋 Olá! Boas-vindas ao meu perfil no GitHub.
 
-- 🎓 Sou Web Developer, pós-graduado em UX Designer e Designer Gráfico por formação
+- 🎓 Sou Desenvolvedor Front-end Web com foco em React, pós-graduado em UX Design e Designer Gráfico por formação
 - 📚 Atualmente estou estudando para me tornar um Desenvolvedor Full Stack
 
 
