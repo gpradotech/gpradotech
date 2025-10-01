@@ -12,6 +12,9 @@
 ![REACT](https://shields.io/badge/-React-000?style=flat&logo=react)
 ![NODE.JS](https://shields.io/badge/-Node.Js-000?style=flat&logo=node.js)
 
+## 📊 GitHub Stats
+![gpradotech's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gpradotech&theme=dracula&show_icons=true&hide_border=true&layout=compact)
+
 ## ⭐ Projetos em destaque
 1. ![Sorteador de Números](https://github.com/gpradotech/RKT.FFS-09.Number-Drawer)
 2. ![LP Clube de Assinatura](https://github.com/gpradotech/RKT.FFS-08.Clube-de-Assinatura)
