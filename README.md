@@ -4,7 +4,7 @@
 - 📚 Atualmente estou estudando para me tornar um Desenvolvedor Full Stack
 
 
-## 🛠️ Tecnologias
+## ⚡ Tecnologias
 ![HTML](https://shields.io/badge/-HTML5-000?style=flat&logo=html5)
 ![CSS](https://shields.io/badge/-CSS3-000?style=flat&logo=css)
 ![JAVASCRIPT](https://shields.io/badge/-JavaScript-000?style=flat&logo=javascript)
@@ -15,7 +15,7 @@
 ## 📊 GitHub Stats
 ![gpradotech's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gpradotech&theme=dracula&show_icons=true&hide_border=true&layout=compact)
 
-## ⭐ Projetos em destaque
+## 🚀 Projetos em destaque
 1. ![Sorteador de Números](https://github.com/gpradotech/RKT.FFS-09.Number-Drawer)
 2. ![LP Clube de Assinatura](https://github.com/gpradotech/RKT.FFS-08.Clube-de-Assinatura)
 3. ![Cartão de Embarque](https://github.com/gpradotech/RKT.BCD-06.ticket)
