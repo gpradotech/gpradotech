@@ -1,45 +1,21 @@
-# 👋 Hello! Welcome to my Github profile.
+# 👋 Olá! Boas-vindas ao meu perfil no GitHub.
 
-- 🎓 I’m a Web Developer, UX Designer and Graphic Designer <!-- - 🔭 I’m currently working at [Link visible name](https://address.com) -->
-- 📚 I’m currently learning Full Stack Development
-- ⚡ Fun fact: I'm a world unknown rapper ;p
+- 🎓 Sou Web Developer, pós-graduado em UX Designer e Designer Gráfico por formação
+- 📚 Atualmente estou estudando para me tornar um Desenvolvedor Full Stack
 
 
-## Studying the technologies
+## 🛠️ Tecnologias
+![HTML](https://shields.io/badge/-HTML5-000?style=flat&logo=html5)
+![CSS](https://shields.io/badge/-CSS3-000?style=flat&logo=css)
+![JAVASCRIPT](https://shields.io/badge/-JavaScript-000?style=flat&logo=javascript)
+![TYPESCRIPT](https://shields.io/badge/-TypeScript-000?style=flat&logo=typescript)
+![REACT](https://shields.io/badge/-React-000?style=flat&logo=react)
+![NODE.JS](https://shields.io/badge/-Node.Js-000?style=flat&logo=node.js)
 
-<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="24px" height="24px"/></a> 
-<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="24px" height="24px"/></a> 
-<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="24px" height="24px"/></a> 
-<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="24px" height="24px"/> 
-<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="24px" height="24px"/></a> 
-<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Nodejs" width="24px" height="24px"/></a>
-  
-## Studying the Tools
-
-<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="24px" height="24px"/></a> 
-<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="24px" height="24px"/></a> 
-<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" alt="WordPress" width="24px" height="24px"/></a> 
-<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="24px" height="24px"/></a> 
-<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" alt="Notion" width="24px" height="24px"/></a> 
-
-<!--
-<div>
-<a href="https://github.com/gprado-dev">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gprado-dev&layout=compact&langs_count=7&theme=dracula"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=gprado-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
- 
- 
-**gprado-dev/gprado-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⭐ Projetos em destaque
+1. ![Sorteador de Números](https://github.com/gpradotech/RKT.FFS-09.Number-Drawer)
+2. ![LP Clube de Assinatura](https://github.com/gpradotech/RKT.FFS-08.Clube-de-Assinatura)
+3. ![Cartão de Embarque](https://github.com/gpradotech/RKT.BCD-06.ticket)
+4. ![Formulário de cartão de crédito](https://github.com/gpradotech/RKT.BCD-13.card-form)
+5. ![LP Patins Animada](https://github.com/gpradotech/RKT.FFS-07.Patins-Snitap)
+6. ![Ajustes de iluminação](https://github.com/gpradotech/RKT.BCD-24.light-app)
