@@ -10,7 +10,7 @@
 ![JAVASCRIPT](https://shields.io/badge/-JavaScript-000?style=flat&logo=javascript)
 ![TYPESCRIPT](https://shields.io/badge/-TypeScript-000?style=flat&logo=typescript)
 ![REACT](https://shields.io/badge/-React-000?style=flat&logo=react)
-![NODE.JS](https://shields.io/badge/-Node.Js-000?style=flat&logo=node.js)
+![NODE.JS](https://shields.io/badge/-Node.js-000?style=flat&logo=node.js)
 
 ## 📊 GitHub Stats
 ![gpradotech's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gpradotech&theme=dracula&show_icons=true&hide_border=true&layout=compact)
